@@ -10,5 +10,17 @@
       "link": "/servers",
       "text": "Servers"
     }
+  },
+  {
+    "name": "module_leadboard",
+    "remoteUrl": "http://localhost:3002/remoteEntry.js",
+    "scope": "module_leadboard",
+    "module": "./app",
+    "export": "default",
+    "path": "/leadboard",
+    "sidebar": {
+      "link": "/leadboard",
+      "text": "Leadboard"
+    }
   }
 ]
