@@ -1,0 +1,10 @@
+[
+  {
+    "name": "mfe1",
+    "remoteUrl": "http://localhost:3001/remoteEntry.js",
+    "scope": "mfe1",
+    "module": "./app",
+    "export": "default",
+    "path": "/mfe1"
+  }
+]
