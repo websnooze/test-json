@@ -26,12 +26,12 @@
     }
   },
   {
-    "name": "module_leadboard",
-    "remoteUrl": "http://localhost:3002/remoteEntry.js",
-    "scope": "module_leadboard",
+    "name": "module_profile_stats",
+    "remoteUrl": "http://localhost:3003/remoteEntry.js",
+    "scope": "module_profile_stats",
     "module": "./app",
     "export": "default",
-    "path": "/leadboard",
+    "path": "/:playerId/stats",
     "profile": true
   }
 ]
