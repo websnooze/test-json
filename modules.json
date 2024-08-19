@@ -5,6 +5,10 @@
     "scope": "module_servers",
     "module": "./app",
     "export": "default",
-    "path": "/servers"
+    "path": "/servers",
+    "sidebar": {
+      "link": "/servers",
+      "text": "Servers"
+    }
   }
 ]
