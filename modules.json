@@ -31,7 +31,7 @@
     "scope": "module_profile_stats",
     "module": "./app",
     "export": "default",
-    "path": "/:playerId/stats",
+    "path": "stats",
     "profile": true
   }
 ]
