@@ -1,7 +1,7 @@
 [
   {
     "name": "module_servers",
-    "remoteUrl": "http://localhost:3001/remoteEntry.js",
+    "remoteUrl": "https://demo.spown.dev/modules/module_servers/remoteEntry.js",
     "scope": "module_servers",
     "module": "./app",
     "export": "default",
@@ -13,7 +13,7 @@
   },
   {
     "name": "module_leadboard",
-    "remoteUrl": "http://localhost:3002/remoteEntry.js",
+    "remoteUrl": "https://demo.spown.dev/modules/module_leadboard/remoteEntry.js",
     "scope": "module_leadboard",
     "module": "./app",
     "export": "default",
@@ -25,7 +25,7 @@
   },
   {
     "name": "module_profile_stats",
-    "remoteUrl": "http://localhost:3003/remoteEntry.js",
+    "remoteUrl": "https://demo.spown.dev/modules/module_profile_stats/remoteEntry.js",
     "scope": "module_profile_stats",
     "module": "./app",
     "export": "default",
@@ -34,7 +34,7 @@
   },
   {
     "name": "module_home_welcome",
-    "remoteUrl": "http://localhost:3004/remoteEntry.js",
+    "remoteUrl": "https://demo.spown.dev/modules/module_home_welcome/remoteEntry.js",
     "scope": "module_home_welcome",
     "module": "./app",
     "export": "default",
